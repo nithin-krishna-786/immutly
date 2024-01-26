@@ -29,5 +29,11 @@ GET /products/{id} - Fetch Product by ID
 
 
 POST /products - Create Product
+
+
 PUT /products/{id} - Updating a Product
+
+
 DELETE /products/{id} - Deleting a Product
+
+
