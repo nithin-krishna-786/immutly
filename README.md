@@ -16,4 +16,6 @@ http://localhost:8080/swagger-ui/index.html
 The application can be built using the following command:
 ```
 mvn clean install
+```
 
+Design Decisions: Created REST Controller /products for managing all the CRUD operations in a Single Controller
